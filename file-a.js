@@ -7,4 +7,3 @@ console.log("Second greet from B");
 console.log("Third greet from B");
 console.log("Fourth greet from B");
 console.log("First  greet from MAIN");
-console.log("First greet from D");
